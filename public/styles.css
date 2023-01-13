@@ -1,0 +1,66 @@
+.container{
+    margin:5rem;
+    padding: 0.2rem;
+    background-color: rgb(252, 251, 255);
+}
+@media (min-width: 1200px) {
+    .container {
+      width: 1000px;
+    }
+  }
+
+.input-icons i {
+    position: absolute;
+    display: flex;
+}
+  
+.input-icons {
+    width: 50%;
+    margin-bottom: 10px;
+    
+}
+  
+.icon {
+    padding: 10px;
+    color: #181819;
+    min-width: 50px;
+    text-align: center;
+}
+  
+.input-field {
+    width: 100%;
+    padding: 10px;
+    margin: 0.1rem;
+    text-align: center;
+}
+.iconadder{
+   
+    max-width:450px;
+    
+}
+.fromto{
+    display: flex;
+    
+    margin-top: 1.5rem;
+    
+}
+.datetoselect{
+    
+    margin-right: 3rem;
+}
+.bnsize{
+    width: 50%;
+    align-content: center;
+    margin-top: 2rem;
+   
+}
+.rooncenter {
+    display: flex;
+    width: 100%;
+    max-width: 60%;
+    margin: 0 auto;
+    justify-content: center;
+}
+Container{
+    padding: 0px;
+}
